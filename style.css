@@ -1,0 +1,28 @@
+body{
+  color:white;
+  background-color:black;
+  font-size:250%;
+  text-align: center;
+}
+button{
+  cursor:pointer;
+}
+#first{
+  color:black;
+}
+#second{
+  color:green;
+}
+#k{
+ color:blue; 
+}
+.y{
+  color: indigo;
+  width: 20%;
+  length:50%;
+}
+.j{
+  color:midnightblue;
+  width: 20%;
+  length:50%;
+}
